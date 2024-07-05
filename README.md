@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Signizz / Oi, eu sou o Signizz 
+- 👀 I’m interested in learning C# and others languages for my career as game dev
+- 🌱 I’m currently learning C#
